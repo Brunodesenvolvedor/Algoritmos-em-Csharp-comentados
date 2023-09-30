@@ -3,7 +3,8 @@ using System;
 class UmIfelse {
   public static void Main (string[] args) {
 
-// O algoritmo é simples: o programa pergunta a idade do usuário, que a digita, e, em seguida lhe fornece uma resposta automática dentre quatro possíveis.
+// O algoritmo é simples: o programa pergunta a idade do usuário, que a digita, e, em seguida lhe fornece uma resposta automática dentre 
+quatro possíveis.
 
   int age;
   string reponse1, reponse2, reponse3, reponse4, resultat;
